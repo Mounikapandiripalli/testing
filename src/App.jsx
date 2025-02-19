@@ -27,6 +27,7 @@ const App = () => {
     //   </Box>
     // </>
     <Box>
+    <h1>rfgb</h1>
       <LandingPage/>
       
       
